@@ -1,0 +1,24 @@
+#! /usr/bin/vvp
+:ivl_version "12.0 (stable)" "(v12_0-dirty)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision - 9;
+:vpi_module "/usr/lib/ivl/system.vpi";
+:vpi_module "/usr/lib/ivl/vhdl_sys.vpi";
+:vpi_module "/usr/lib/ivl/vhdl_textio.vpi";
+:vpi_module "/usr/lib/ivl/v2005_math.vpi";
+:vpi_module "/usr/lib/ivl/va_math.vpi";
+S_0x556b87f9aa80 .scope module, "alu" "alu" 2 3;
+ .timescale -9 -9;
+S_0x556b87f9ac30 .scope module, "instructionRam" "instructionRam" 2 11;
+ .timescale -9 -9;
+S_0x556b87f9b4a0 .scope module, "ramS" "ramS" 2 7;
+ .timescale -9 -9;
+S_0x556b87f9b630 .scope module, "registerBank" "registerBank" 2 15;
+ .timescale -9 -9;
+S_0x556b87f9b9a0 .scope module, "vCoreZero" "vCoreZero" 2 19;
+ .timescale -9 -9;
+# The file index is used to find the file name in the following table.
+:file_names 3;
+    "N/A";
+    "<interactive>";
+    "vcorezero.v";
