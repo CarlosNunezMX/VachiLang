@@ -4,8 +4,7 @@ This project is based in the [AnGlonchas/ASMCompilerForVerilog](https://github.c
 # Vachilang Syntax Highlighting for VS Code
 This is a Visual Studio Code extension that provides syntax highlighting for the Vachilang programming language.
 ## Features
-- Syntax highlighting for Vachilang keywords, comments, strings, and more.
-
+- Syntax highlighting for Vachilang keywords, comments.
 See instructions in the [vscode/README.md](vscode/README.md) file to install the extension.
 
 # Vachilang compiler
